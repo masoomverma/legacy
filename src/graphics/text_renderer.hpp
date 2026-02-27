@@ -1,0 +1,8 @@
+//
+// Created by masoo on 27-02-2026.
+//
+
+#ifndef LEGACY_TEXT_RENDERER_HPP
+#define LEGACY_TEXT_RENDERER_HPP
+
+#endif //LEGACY_TEXT_RENDERER_HPP
